@@ -5,6 +5,11 @@ module.exports =
     PASSWORD: "12101988",
     DB: "db-livro",
     dialect: "mysql",
+    define:
+      {
+        timestamps: true,
+        underscore: true,
+      },
     pool: 
       {
         max: 5,
