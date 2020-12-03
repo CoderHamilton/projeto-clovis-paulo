@@ -10,4 +10,5 @@ Links que apoio:
 <ol>
    <li>https://bezkoder.com/node-js-express-sequelize-mysql/</li>
    <li>https://dev.mysql.com/doc/refman/5.7/en/installing.html</li>
+   <li>https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o</li>
 </ol>  
