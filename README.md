@@ -12,3 +12,5 @@ Links que apoio:
    <li>https://dev.mysql.com/doc/refman/5.7/en/installing.html</li>
    <li>https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o</li>
 </ol>  
+
+<h1>Agradecimento ao professor Clóvis.</h1>
