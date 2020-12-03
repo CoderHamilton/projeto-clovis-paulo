@@ -13,4 +13,4 @@ Links que apoio:
    <li>https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o</li>
 </ol>  
 
-<h1>Agradecimento ao professor Clóvis.</h1>
+<h1>Agradecimento ao professor Clóvis Holanda.</h1>
